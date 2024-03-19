@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02668835-8FA5-4BCE-AFD6-0257FC5C83E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "096B3BB0-EC35-4144-A080-E2F72A36AA87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingDemoSW/Screens/Details/DetailsListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "loading"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2218A686-65AF-45B9-BA4B-F829BF425FBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingDemoSW/Screens/MainCategoriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2218A686-65AF-45B9-BA4B-F829BF425FBE - 9e7cbc2e24d195d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in CodingDemoSW.MainCategoriesView.body.getter : some"
+                  moduleName = "CodingDemoSW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirarisse/Repos/CodingDemoSWPrivate-main/CodingDemoSW/Screens/MainCategoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "2218A686-65AF-45B9-BA4B-F829BF425FBE - e252c7bd2b7ecfd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in CodingDemoSW.MainCategoriesView.body.getter : some"
+                  moduleName = "CodingDemoSW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirarisse/Repos/CodingDemoSWPrivate-main/CodingDemoSW/Screens/MainCategoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+               <Location
+                  uuid = "2218A686-65AF-45B9-BA4B-F829BF425FBE - 17478b842a4459da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in CodingDemoSW.MainCategoriesView.body.getter : some"
+                  moduleName = "CodingDemoSW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mirarisse/Repos/CodingDemoSWPrivate-main/CodingDemoSW/Screens/MainCategoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
